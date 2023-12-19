@@ -1,0 +1,9 @@
+config:
+  aws:profile: default
+  aws:region: us-west-2
+  katie-aws-bucket-redirects:domains:
+    - katieedwardsgroup.com
+    - katieedwardsteam.com
+    - katiehughesrealestate.com
+    - westsidecostamesarealestate.com
+    - katiesellsoc.com

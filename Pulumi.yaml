@@ -1,0 +1,3 @@
+name: katie-aws-bucket-redirects
+runtime: nodejs
+description: Pulumi program to setup r53 zone redirects to external domains via s3 buckets
